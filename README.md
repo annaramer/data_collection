@@ -1,7 +1,7 @@
 # data_collection
 ## Module 11 Challenge: Web Scraping and Data Analysis
 ### Overview
-This project involves web scraping data related to Mars from various websites and analyzing it using Python. The primary tasks include scraping titles and preview text from Mars news articles and analyzing Mars weather data. The project aimed to strengthen skills in collecting, organizing, analyzing, and visually communicating data insights.
+This project involves web scraping data related to Mars from various websites and analyzing it using Jupyter Notebook. The primary tasks include scraping titles and preview text from Mars news articles and analyzing Mars weather data. The project aimed to strengthen skills in collecting, organizing, analyzing, and visually communicating data insights.
 
 ## The project consists of two main parts:
 
